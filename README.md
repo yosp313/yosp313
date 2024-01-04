@@ -28,8 +28,8 @@ I've been learning to code for four years. I'm majoring in software engineering 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yosp313"><img src="https://github-readme-stats.vercel.app/api?username=yosp313&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yosp313's GitHub stats" /></a>
+<a href="http://www.github.com/yosp313"><img src="https://github-readme-stats.vercel.app/api?username=yosp313&show_icons=true&hide=prs,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="yosp313's GitHub stats" /></a>
 
-<a href="http://www.github.com/yosp313"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yosp313&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/yosp313"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yosp313&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/yosp313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosp313&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/yosp313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosp313&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
