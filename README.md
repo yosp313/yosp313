@@ -10,7 +10,7 @@ I've been learning to code for four years. I'm majoring in software engineering 
 * ✉️  You can contact me at [youssef.ayman992003@gmail.com](mailto:youssef.ayman992003@gmail.com)
 * 🚀  I'm currently working on [Imagko](http://imagko-final.vercel.app/)
 * 🧠  I'm learning Rust, flask, machine learning and django
-* 🤝  I'm open to collaborating on I'm open to work any interesting projects
+* 🤝  I'm open to work any interesting projects
 
 ### Skills
 
