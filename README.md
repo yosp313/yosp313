@@ -26,8 +26,8 @@ I've been learning to code for four years. I'm majoring in software engineering 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yosp313"><img src="https://github-readme-stats.vercel.app/api?username=yosp313&show_icons=true&hide=prs,issues,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="yosp313's GitHub stats" /></a>
+![yosp313's Stats](https://github-readme-stats.vercel.app/api?username=yosp313&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-<a href="http://www.github.com/yosp313"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yosp313&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![yosp313's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yosp313&theme=dracula&hide_border=true)
 
-<a href="https://github.com/yosp313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosp313&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![yosp313's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosp313&theme=dracula&show_icons=true&hide_border=true&layout=compact)
