@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">🌍  I'm based in Egypt, Cairo<br>✉️  You can contact me at youssef.ayman992003@gmail.com<br>🕸️ My portfolio https://youssef-ayman.verce.app<br>🚀  I'm currently working on Imagko<br>🧠  I'm learning Rust, flask, machine learning and django<br>🤝  I'm open to collaborating on I'm open to work any interesting projects</p>
+<p align="center">🌍  I'm based in Egypt, Cairo<br>✉️  You can contact me at youssef.ayman992003@gmail.com<br>🕸️ My portfolio https://youssef-ayman.vercel.app<br>🚀  I'm currently working on Imagko<br>🧠  I'm learning Rust, flask, machine learning and django<br>🤝  I'm open to collaborating on I'm open to work any interesting projects</p>
 
 ###
 
