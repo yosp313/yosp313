@@ -143,7 +143,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/yosp313/yosp313/output/snake.svg" alt="Snake animation" />
-
-###
